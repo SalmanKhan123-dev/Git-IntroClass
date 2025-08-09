@@ -1,2 +1,2 @@
 # Git-IntroClass
-This is my git intro class.
+This is my git intro class.for sure its interesting.
